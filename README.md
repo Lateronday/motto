@@ -1,0 +1,2 @@
+# motto
+motto -> qq bot
